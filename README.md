@@ -4,3 +4,5 @@ Project containing NMAP scans, vulnerabilities and backdoor services present in 
 
 Enviroment:
 These projects are performed well under am open source security vulnerability in a lab environment consisting kali linux(attacker machine) and metasploitable 2 (target machine).
+
+Tools used in these projects are : Nmap and wireshark inside kali linux. 
